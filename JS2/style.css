@@ -1,0 +1,25 @@
+body{
+
+    background-image: url(Img/background.jpg);
+}
+
+.cards-field{
+    
+    background-color : green;
+    height : 500px;
+    width: 900px;
+    margin-left: 25%;
+    
+}
+
+.player_interface{
+    
+    width : 850 px;
+    margin-left: 20%
+}
+
+#cardFieldOne #cardFieldTwo #cardFielsThree{
+    
+    background-color : white;
+    padding: 10%;
+}
